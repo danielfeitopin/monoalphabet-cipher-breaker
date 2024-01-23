@@ -1,5 +1,14 @@
 # Monoalphabet Cipher Breaker
 
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=white&labelColor=grey&color=%233776AB)](<https://www.python.org/> "Python")
+[![License: MIT](<https://img.shields.io/github/license/danielfeitopin/monoalphabet-cipher-breaker>)](LICENSE "License")
+[![GitHub issues](https://img.shields.io/github/issues/danielfeitopin/monoalphabet-cipher-breaker)](<https://github.com/danielfeitopin/monoalphabet-cipher-breaker> "Issues")
+[![GitHub stars](https://img.shields.io/github/stars/danielfeitopin/monoalphabet-cipher-breaker)](<https://github.com/danielfeitopin/monoalphabet-cipher-breaker/stargazers> "Stars")
+
+</div>
+
 This repository contains a Python program for decoding a substitution cipher text using frequency analysis and letter substitution.
 
 ## Getting Started
@@ -61,4 +70,4 @@ exit: Quit the program.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE "License") file for details.
