@@ -24,13 +24,13 @@ Python 3.9 or above.
 Clone this repository
 
 ```bash
-git clone https://github.com/<username>/<repository>.git
+git clone [https://github.com/<username>/<repository>.git](https://github.com/danielfeitopin/monoalphabet-cipher-breaker.git)
 ```
 
 Change directory to the cloned repository
 
 ```bash
-cd <repository>
+cd monoalphabet-cipher-breaker
 ```
 
 ## Usage
